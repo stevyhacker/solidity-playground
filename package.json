@@ -1,0 +1,14 @@
+{
+  "name": "stevyhacker.soliditydev",
+  "version": "1.0.0",
+  "description": "HODL tokens smart contract development",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "zeppelin-solidity": "^1.6.0"
+  }
+}
