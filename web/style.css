@@ -1,20 +1,25 @@
 .title {
-    margin: 10% 0;
+    margin: 7.5% 0;
 
 }
 
 .paragraph {
     font-size: 22px;
+    margin-top: 2%;
 }
 
 .button {
-    margin-top: 5%;
     text-align: center;
     display: block;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 2% auto;
+}
+
+#tokenSelector {
+    text-align: center;
+    display: block;
+    margin: 2% auto;
 }
 
 .content {
-    background-color: #9399b9;
+    background-color: #b2b8e0;
 }
